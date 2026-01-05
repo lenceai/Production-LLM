@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+loguru
+numpy
+scikit-learn
+sentence-transformers
+faiss-cpu
+prometheus-client
+pytest
+beautifulsoup4
+pypdf
+duckduckgo-search
+requests
+arxiv
